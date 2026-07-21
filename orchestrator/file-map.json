@@ -1,0 +1,8 @@
+{
+  "ownership": {
+    "apps/web/app/**": ["FrontendArchitect"],
+    "prisma/schema.prisma": ["BackendPaymentAgent"],
+    "components/**": ["FrontendArchitect"]
+  },
+  "rules": "Strict file mapping. No drift allowed."
+}
